@@ -8,7 +8,7 @@
 
 ### 1. Introduction
 
-This policy describes how the mobile application **"Shopping List — BuyList"** (hereinafter referred to as the "App") processes user data in accordance with RuStore, Google Play requirements, and applicable data protection laws.
+This policy describes how the mobile application **"Shopping List — BuyList"** (hereinafter referred to as the "App") processes user data in accordance with RuStore, Google Play , AppGallery requirements, and applicable data protection laws.
 
 The developer is an individual developer. Contact email: **dz529770@gmail.com**.
 
@@ -81,7 +81,7 @@ For any questions regarding data processing and app operation, please contact:
 
 ### 1. Введение
 
-Настоящая политика описывает, как мобильное приложение **«Список покупок — BuyList»** (далее — «Приложение») обрабатывает данные пользователей в соответствии с требованиями RuStore, Google Play и применимых законов о защите персональных данных.
+Настоящая политика описывает, как мобильное приложение **«Список покупок — BuyList»** (далее — «Приложение») обрабатывает данные пользователей в соответствии с требованиями RuStore, Google Play , AppGallery и применимых законов о защите персональных данных.
 
 Разработчик приложения — индивидуальный разработчик. Связаться можно по адресу электронной почты: **dz529770@gmail.com**.
 
@@ -154,7 +154,7 @@ For any questions regarding data processing and app operation, please contact:
 
 ### 1. 简介
 
-本政策描述移动应用程序 **「购物清单 — BuyList」**（以下简称「本应用」）如何根据 RuStore、Google Play 要求以及适用的数据保护法律处理用户数据。
+本政策描述移动应用程序 **「购物清单 — BuyList」**（以下简称「本应用」）如何根据 RuStore, Google Play , AppGallery 要求以及适用的数据保护法律处理用户数据。
 
 开发者是个人开发者。联系邮箱：**dz529770@gmail.com**。
 
