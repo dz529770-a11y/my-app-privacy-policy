@@ -8,9 +8,9 @@
 
 ### 1. Introduction
 
-This policy describes how the mobile application **"Shopping List — BuyList"** (hereinafter referred to as the "App") processes user data in accordance with RuStore, Google Play , AppGallery requirements, and applicable data protection laws.
+This policy describes how the mobile application **"Shopping List — BuyList"** (hereinafter referred to as the "App") processes user data in accordance with RuStore, Google Play, AppGallery requirements, and applicable data protection laws.
 
-The developer is an individual developer. Contact email: **dz529770@gmail.com**.
+Developer: **Dzmitry Zalenski**. Contact email: **dz529770@gmail.com**.
 
 ### 2. Data Collection
 
@@ -22,7 +22,7 @@ The App operates primarily in offline mode. All shopping lists, interface settin
 - Contacts from the phone book.
 
 **What is used on the device:**
-- **Voice input** — processed exclusively by the device's built-in Android speech recognition (Google/Samsung, etc.), without transmission to third-party servers.
+- **Voice input** — processed by the device's built-in Android speech recognition service (Google, Samsung, Huawei, etc.). Depending on device settings and available offline models, audio may be processed locally or transmitted to the respective provider's servers for recognition. The App itself does not store or transmit voice data.
 - **Discount card photos** — saved locally in the app's internal storage.
 - **Yandex Advertising SDK (Yandex Mobile Ads)** — has access to the device's advertising identifier (ADID) in accordance with its own privacy policy for displaying contextual ads.
 
@@ -67,7 +67,7 @@ The app is intended for a general audience, does not contain 18+ content, and **
 
 We may update this privacy policy. The current version is always available:
 - Inside the app: *Settings → Privacy Policy*.
-- On the app's page in RuStore.
+- On the app's page in RuStore and AppGallery.
 
 ### 9. Contacts
 
@@ -81,9 +81,9 @@ For any questions regarding data processing and app operation, please contact:
 
 ### 1. Введение
 
-Настоящая политика описывает, как мобильное приложение **«Список покупок — BuyList»** (далее — «Приложение») обрабатывает данные пользователей в соответствии с требованиями RuStore, Google Play , AppGallery и применимых законов о защите персональных данных.
+Настоящая политика описывает, как мобильное приложение **«Список покупок — BuyList»** (далее — «Приложение») обрабатывает данные пользователей в соответствии с требованиями RuStore, Google Play, AppGallery и применимых законов о защите персональных данных.
 
-Разработчик приложения — индивидуальный разработчик. Связаться можно по адресу электронной почты: **dz529770@gmail.com**.
+Разработчик: **Dzmitry Zalenski**. Связаться можно по адресу электронной почты: **dz529770@gmail.com**.
 
 ### 2. Сбор данных
 
@@ -95,7 +95,7 @@ For any questions regarding data processing and app operation, please contact:
 - Контакты из телефонной книги.
 
 **Что используется на устройстве:**
-- **Голосовой ввод** — обрабатывается исключительно системными средствами распознавания речи Android (Google/Samsung и др.), без передачи на сторонние серверы.
+- **Голосовой ввод** — обрабатывается встроенной службой распознавания речи Android (Google, Samsung, Huawei и др.). В зависимости от настроек устройства и наличия офлайн-моделей, аудио может обрабатываться локально или передаваться на серверы соответствующего поставщика для распознавания. Само приложение не сохраняет и не передаёт голосовые данные.
 - **Фотографии дисконтных карт** — сохраняются локально во внутреннем хранилище приложения.
 - **Рекламный SDK Яндекса (Yandex Mobile Ads)** — имеет доступ к рекламному идентификатору устройства (ADID) в соответствии со своей политикой конфиденциальности для показа контекстной рекламы.
 
@@ -140,7 +140,7 @@ For any questions regarding data processing and app operation, please contact:
 
 Мы можем обновлять настоящую политику конфиденциальности. Актуальная версия всегда доступна:
 - Внутри приложения: *Настройки → Политика конфиденциальности*.
-- На странице приложения в RuStore.
+- На странице приложения в RuStore и AppGallery.
 
 ### 9. Контакты
 
@@ -154,9 +154,9 @@ For any questions regarding data processing and app operation, please contact:
 
 ### 1. 简介
 
-本政策描述移动应用程序 **「购物清单 — BuyList」**（以下简称「本应用」）如何根据 RuStore, Google Play , AppGallery 要求以及适用的数据保护法律处理用户数据。
+本政策描述移动应用程序 **「购物清单 — BuyList」**（以下简称「本应用」）如何根据 RuStore、Google Play、AppGallery 要求以及适用的数据保护法律处理用户数据。
 
-开发者是个人开发者。联系邮箱：**dz529770@gmail.com**。
+开发者：**Dzmitry Zalenski**。联系邮箱：**dz529770@gmail.com**。
 
 ### 2. 数据收集
 
@@ -168,7 +168,7 @@ For any questions regarding data processing and app operation, please contact:
 - 手机通讯录中的联系人。
 
 **设备上使用的内容：**
-- **语音输入** — 仅由设备内置的 Android 语音识别系统（Google/Samsung 等）处理，不会传输到第三方服务器。
+- **语音输入** — 由设备内置的 Android 语音识别服务（Google、Samsung、Huawei 等）处理。根据设备设置和离线模型可用性，音频可能在本地处理或传输到相应提供商的服务器进行识别。本应用本身不存储或传输语音数据。
 - **折扣卡照片** — 保存在应用内部存储中。
 - **Yandex 广告 SDK (Yandex Mobile Ads)** — 根据自身的隐私政策访问设备的广告标识符 (ADID)，用于展示相关广告。
 
@@ -213,7 +213,7 @@ For any questions regarding data processing and app operation, please contact:
 
 我们可能会更新本隐私政策。当前版本始终可在以下位置查看：
 - 应用内：*设置 → 隐私政策*。
-- RuStore 应用页面。
+- RuStore 和 AppGallery 应用页面。
 
 ### 9. 联系方式
 
