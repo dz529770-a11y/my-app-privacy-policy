@@ -24,7 +24,7 @@ The App operates primarily in offline mode. All shopping lists, interface settin
 **What is used on the device:**
 - **Voice input** — processed by the device's built-in Android speech recognition service (Google, Samsung, Huawei, etc.). Depending on device settings and available offline models, audio may be processed locally or transmitted to the respective provider's servers for recognition. The App itself does not store or transmit voice data.
 - **Discount card photos** — saved locally in the app's internal storage.
-- **Yandex Advertising SDK (Yandex Mobile Ads)** — has access to the device's advertising identifier (ADID) in accordance with its own privacy policy for displaying contextual ads.
+- **Yandex Advertising SDK (Yandex Mobile Ads)** — may collect the device's advertising identifier (OAID/ADID), approximate location, and device information (model, OS version) for displaying personalized and contextual advertisements. Data processing is governed by Yandex's privacy policy.
 
 ### 3. Data Usage
 
@@ -65,13 +65,16 @@ The app is intended for a general audience, does not contain 18+ content, and **
 
 ### 8. Policy Changes
 
-We may update this privacy policy. The current version is always available:
-- Inside the app: *Settings → Privacy Policy*.
-- On the app's page in RuStore and AppGallery.
+We may update this privacy policy. The current version is always available at:
+- **https://github.com/dz529770-a11y/my-app-privacy-policy/blob/main/PRIVACY_POLICY.md**
+
+The GitHub page above always contains the most up-to-date version.
 
 ### 9. Contacts
 
 For any questions regarding data processing and app operation, please contact:
+
+Developer / Разработчик: **Dzmitry Zalenski**
 
 **dz529770@gmail.com**
 
@@ -97,7 +100,7 @@ For any questions regarding data processing and app operation, please contact:
 **Что используется на устройстве:**
 - **Голосовой ввод** — обрабатывается встроенной службой распознавания речи Android (Google, Samsung, Huawei и др.). В зависимости от настроек устройства и наличия офлайн-моделей, аудио может обрабатываться локально или передаваться на серверы соответствующего поставщика для распознавания. Само приложение не сохраняет и не передаёт голосовые данные.
 - **Фотографии дисконтных карт** — сохраняются локально во внутреннем хранилище приложения.
-- **Рекламный SDK Яндекса (Yandex Mobile Ads)** — имеет доступ к рекламному идентификатору устройства (ADID) в соответствии со своей политикой конфиденциальности для показа контекстной рекламы.
+- **Рекламный SDK Яндекса (Yandex Mobile Ads)** — может собирать рекламный идентификатор устройства (OAID/ADID), приблизительное местоположение и информацию об устройстве (модель, версия ОС) для показа персонализированной и контекстной рекламы. Обработка данных регулируется политикой конфиденциальности Яндекса.
 
 ### 3. Использование данных
 
@@ -138,13 +141,16 @@ For any questions regarding data processing and app operation, please contact:
 
 ### 8. Изменения политики
 
-Мы можем обновлять настоящую политику конфиденциальности. Актуальная версия всегда доступна:
-- Внутри приложения: *Настройки → Политика конфиденциальности*.
-- На странице приложения в RuStore и AppGallery.
+Мы можем обновлять настоящую политику конфиденциальности. Актуальная версия всегда доступна по адресу:
+- **https://github.com/dz529770-a11y/my-app-privacy-policy/blob/main/PRIVACY_POLICY.md**
+
+Страница на GitHub всегда содержит самую свежую версию.
 
 ### 9. Контакты
 
 По всем вопросам, связанным с обработкой данных и работой приложения, пишите на электронную почту:
+
+Разработчик: **Dzmitry Zalenski**
 
 **dz529770@gmail.com**
 
@@ -170,7 +176,7 @@ For any questions regarding data processing and app operation, please contact:
 **设备上使用的内容：**
 - **语音输入** — 由设备内置的 Android 语音识别服务（Google、Samsung、Huawei 等）处理。根据设备设置和离线模型可用性，音频可能在本地处理或传输到相应提供商的服务器进行识别。本应用本身不存储或传输语音数据。
 - **折扣卡照片** — 保存在应用内部存储中。
-- **Yandex 广告 SDK (Yandex Mobile Ads)** — 根据自身的隐私政策访问设备的广告标识符 (ADID)，用于展示相关广告。
+- **Yandex 广告 SDK (Yandex Mobile Ads)** — 可能会收集设备的广告标识符 (OAID/ADID)、大致位置和设备信息（型号、操作系统版本）以展示个性化和相关广告。数据处理受 Yandex 隐私政策约束。
 
 ### 3. 数据使用
 
@@ -211,13 +217,16 @@ For any questions regarding data processing and app operation, please contact:
 
 ### 8. 政策变更
 
-我们可能会更新本隐私政策。当前版本始终可在以下位置查看：
-- 应用内：*设置 → 隐私政策*。
-- RuStore 和 AppGallery 应用页面。
+我们可能会更新本隐私政策。当前版本始终可在以下地址查看：
+- **https://github.com/dz529770-a11y/my-app-privacy-policy/blob/main/PRIVACY_POLICY.md**
+
+上述 GitHub 页面始终包含最新版本。
 
 ### 9. 联系方式
 
 如有关于数据处理和应用运营的任何问题，请联系：
+
+开发者：**Dzmitry Zalenski**
 
 **dz529770@gmail.com**
 
